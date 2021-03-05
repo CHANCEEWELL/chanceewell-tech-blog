@@ -1,8 +1,8 @@
 {
-  "name": "chanceewell-blog",
+  "name": "chanceewell-tech-blog",
   "version": "1.0.0",
   "description": "",
-  "master": "server.js",
+  "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
@@ -17,18 +17,16 @@
   },
   "devDependencies": {},
   "scripts": {
-  
-    "start": "node server.js",
-    "seed": "node seeds/seed.js",
-    "watch": "npx nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node seeds/seed.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
   },
-  "author": "CHANCEEWELL",
+  "author": "",
   "bugs": {
-    "url": "https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
+    "url": "https://github.com/CHANCEEWELL/chanceewell-tech-blog/issues"
   },
-  "homepage": "https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
+  "homepage": "https://github.com/CHANCEEWELL/chanceewell-tech-blog#readme"
 }
