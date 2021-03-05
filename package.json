@@ -20,6 +20,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node seeds/seed.js"
   },
+  "keywords": [],
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
