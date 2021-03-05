@@ -1,5 +1,5 @@
 {
-  "name": "hill-tech-blog",
+  "name": "chanceewell-blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -24,12 +24,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hill1635/hill-tech-blog.git"
+    "url": "git+https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
   },
   "author": "",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hill1635/hill-tech-blog/issues"
+    "url": "https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
   },
-  "homepage": "https://github.com/hill1635/hill-tech-blog#readme"
+  "homepage": "https://github.com/CHANCEEWELL/chanceewell-tech-blog.git"
 }
