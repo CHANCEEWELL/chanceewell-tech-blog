@@ -1,0 +1,15 @@
+{{#each posts as |post| }}
+<div class="body">
+    <div class="post">
+        <div class="header">
+            <a href="">{{post.title}}</a>
+            <p>Posted by {{user.username}} on {{post.createdAt}}</p>
+        </div>
+        <div class="content">
+            <p>{{post.content}}</p>
+            <button class="commentBtn">Comment</button>
+        </div>
+        <div class="comments"></div>
+    </div>
+</div>
+{{/each}}

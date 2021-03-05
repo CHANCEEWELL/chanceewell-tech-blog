@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "username": "RickSanchez",
+        "password": "!nt3rD!m3ns1on@lC@bl3"
+    },
+    {
+        "id": 2,
+        "username": "DocBrown",
+        "password": "h0v3rB0@rd"
+    },
+    {
+        "id": 3,
+        "username": "DrWeird",
+        "password": "G3ntl3m3nB3h0ld!"
+    },
+    {
+        "id": 4,
+        "username": "BillGates",
+        "password": "@ppl3sux"
+    },
+    {
+        "id": 5,
+        "username": "TimCook",
+        "password": "m!cr0s0ftsux"
+    }
+]

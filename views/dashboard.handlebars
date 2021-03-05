@@ -1,0 +1,16 @@
+<div class="body">
+{{#each myPosts as |myPost| }}
+    <div class="myPost" data-id={{myPost.id}}>
+        <div class="header">
+            <h3 class ="title">{{myPost.title}}</h3>
+            <p>Posted by you on {{myPost.createdAt}}</p>
+        </div>
+        <div class="content">
+            <p>{{myPost.content}}</p>
+        </div>
+        <button class="editPost">Edit</button>
+        <button class="deletePost">Delete</button>
+    </div>
+{{/each}}
+</div>
+    <button class="addPost">Add Post</button>
